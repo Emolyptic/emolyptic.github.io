@@ -1,0 +1,6 @@
+.ships-table{
+  display:flex;
+  width: 100%;
+  flex-wrap: wrap;
+  padding-top:20px;
+}

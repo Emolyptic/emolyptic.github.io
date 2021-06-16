@@ -1,0 +1,46 @@
+.char-box{
+  width:100%;
+}
+.char-filter-label{
+
+}
+.char-filter{
+
+}
+.char-filters{
+  padding:15px 0;
+  display: flex;
+  justify-content: space-around;
+}
+.char-img{
+  width: auto;
+  max-height: 200px;
+}
+.char-line{
+  display:flex;
+  justify-content: space-between;
+}
+.char-section{
+  display: flex;
+  justify-content: space-between;
+  padding:15px 0;
+}
+.char-table{
+  display:flex;
+  width: 100%;
+  flex-wrap: wrap;
+}
+.char-tag{
+  width: 15%;
+}
+.char-des{
+  width:85%;
+}
+.data-row{
+    transition:all .5s ease-in-out;
+    min-height: 0;
+    overflow: hidden;
+}
+.data-expanded{
+
+}

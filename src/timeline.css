@@ -1,0 +1,25 @@
+.timeline-content{
+  padding:20px;
+}
+.timeline-page{
+  display:flex;
+}
+.year{
+  cursor:pointer;
+  border:1px solid #000;
+  transition:all .5s ease-in-out;
+}
+.year-click{
+  padding:20px;
+  text-align: center;
+}
+.year-content-header{
+    font-size:18px;
+}
+.year-info{
+  padding:0 20px 20px;
+
+}
+.year-selected{
+
+}
